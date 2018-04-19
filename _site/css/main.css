@@ -33,6 +33,9 @@ h1 {
   padding-bottom: 20px;
   font-size: 52px; }
 
+h2 {
+  font-weight: 500; }
+
 ul {
   margin-left: 2rem;
   margin-bottom: 1rem; }
