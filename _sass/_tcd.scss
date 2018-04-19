@@ -39,10 +39,6 @@ h1 {
 	font-size: 52px;
 }
 
-p {
-	margin-bottom: $spacing-unit;
-	font-size: $base-font-size;
-}
 
 ul {
 	margin-left: 2rem;
@@ -52,6 +48,17 @@ ul {
 a {
     color: $brand-color;
     text-decoration: none;
+}
+
+p {
+    margin-bottom: $spacing-unit;
+    font-size: $base-font-size;
+}
+
+p, ul {
+    @include media-query($on-palm) {
+    font-size: 13px;
+    }
 }
 
 /* SITE HEADER */
@@ -112,7 +119,7 @@ nav ul {
 
 .dropdown-menu a {
     color: black;
-    padding: 1rem;
+    padding: 1rem .5rem;
     text-decoration: none;
     display: block;
     text-align: left;
@@ -131,6 +138,12 @@ nav ul {
 	margin-right: 20%;
     margin-left: 20%;
     margin-top: 40px;
+
+    @include media-query($on-palm) {
+    margin-right: 10%;
+    margin-left: 10%;
+    }
+
 }
 
 .aligncenter {
