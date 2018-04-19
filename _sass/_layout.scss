@@ -5,9 +5,11 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
+    background-color: black;
+    width: 100%;
 
     // Positioning context for the mobile navigation icon
-    position: relative;
+    position: fixed;
 }
 
 .site-title {
@@ -90,6 +92,16 @@
             margin-left: 20px;
         }
     }
+}
+
+/* Banner Image */
+header #fixed-banner {
+    background: url("/images/banner.jpeg") no-repeat top center fixed;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 

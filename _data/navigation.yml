@@ -1,0 +1,12 @@
+- title: CFP
+  url: /cfp.html
+- title: Archive
+  url: /#
+  sublinks:
+    - title: "#sxcd2017"
+      url: http://caribbeandigitalnyc.net/2017/
+    - title: "#sxcd2016"
+      url: http://caribbeandigitalnyc.net/2016/
+    - title: separator
+    - title: "#sxcd2015"
+      url: http://caribbeandigitalnyc.net/2015/
