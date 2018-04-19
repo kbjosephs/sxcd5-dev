@@ -38,7 +38,8 @@ h2 {
 
 ul {
   margin-left: 2rem;
-  margin-bottom: 1rem; }
+  margin-bottom: 1rem;
+  list-style-type: circle; }
 
 a {
   color: #F50000;
