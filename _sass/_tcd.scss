@@ -157,6 +157,31 @@ nav ul {
     display: block;
 }
 
+.profile {
+    content: "";
+    display: table;
+    clear: both;
+    margin-bottom: $spacing-unit;
+}
+
+.picture {
+    width: 25%;
+    float: left;
+    margin-bottom: $spacing-unit;
+}
+
+.bio {
+    width: 75%;
+    float: right;
+
+    @include media-query($on-palm) {
+        clear: both;
+        width: 100%;
+    }
+}
+
+
+
 /**
  * Site footer
  */

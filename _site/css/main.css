@@ -126,6 +126,25 @@ nav ul {
   text-align: center;
   display: block; }
 
+.profile {
+  content: "";
+  display: table;
+  clear: both;
+  margin-bottom: 1rem; }
+
+.picture {
+  width: 25%;
+  float: left;
+  margin-bottom: 1rem; }
+
+.bio {
+  width: 75%;
+  float: right; }
+  @media screen and (max-width: 600px) {
+    .bio {
+      clear: both;
+      width: 100%; } }
+
 /**
  * Site footer
  */
