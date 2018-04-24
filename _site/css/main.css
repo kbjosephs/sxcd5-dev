@@ -128,20 +128,23 @@ nav ul {
 
 .profile {
   content: "";
-  display: table;
+  display: flex;
   clear: both;
   margin-bottom: 1rem; }
+  @media screen and (max-width: 600px) {
+    .profile {
+      display: table; } }
 
 .picture {
-  width: 25%;
   float: left;
-  margin-bottom: 1rem; }
+  margin-bottom: 1rem;
+  margin-right: 10%; }
 
 .bio {
-  width: 75%;
   float: right; }
   @media screen and (max-width: 600px) {
     .bio {
+      display: table;
       clear: both;
       width: 100%; } }
 

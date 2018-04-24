@@ -159,22 +159,26 @@ nav ul {
 
 .profile {
     content: "";
-    display: table;
+    display: flex;
     clear: both;
     margin-bottom: $spacing-unit;
+
+    @include media-query($on-palm) {
+        display: table;
+    }
 }
 
 .picture {
-    width: 25%;
     float: left;
     margin-bottom: $spacing-unit;
+    margin-right: 10%;
 }
 
 .bio {
-    width: 75%;
     float: right;
 
     @include media-query($on-palm) {
+        display: table;
         clear: both;
         width: 100%;
     }
