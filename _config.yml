@@ -16,6 +16,10 @@ url: "" # the base hostname & protocol for your site
 twitter_username: elotroalex
 github_username:  elotroalex
 
+collections:
+  program:
+    output: true
+
 # Build settings
 markdown: kramdown
 
