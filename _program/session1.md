@@ -2,9 +2,11 @@
 layout: page
 title: "Intellectual Histories, Archival Engagements"
 session: 1
+day: Thursday
 slot: "9:30AM-10:45AM"
-permalink: /program/session1/
+permalink: /program/intellectual-histories/
 ---
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt leo vitae neque posuere, quis volutpat sapien maximus. Proin et dapibus metus. Aliquam faucibus purus vel ex molestie mollis. Quisque vitae dui feugiat, finibus leo eu, congue augue. Sed pharetra, tellus ut dapibus varius, metus nisl volutpat ligula, et fringilla lectus sem a lorem.
 
