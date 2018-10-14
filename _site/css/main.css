@@ -54,6 +54,9 @@ p {
   p, ul {
     font-size: 13px; } }
 
+hr {
+  margin: 1rem; }
+
 /* SITE HEADER */
 /* Banner Image */
 header #fixed-banner {
