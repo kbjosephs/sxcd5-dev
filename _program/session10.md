@@ -4,19 +4,18 @@ title: "Intellectual Histories, Archival Engagements"
 session: 1
 day: Thursday
 slot: "9:30AM-10:45AM"
-permalink: /program/intellectual-histories/
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt leo vitae neque posuere, quis volutpat sapien maximus. Proin et dapibus metus. Aliquam faucibus purus vel ex molestie mollis. Quisque vitae dui feugiat, finibus leo eu, congue augue. Sed pharetra, tellus ut dapibus varius, metus nisl volutpat ligula, et fringilla lectus sem a lorem.
+Hello. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt leo vitae neque posuere, quis volutpat sapien maximus. Proin et dapibus metus. Aliquam faucibus purus vel ex molestie mollis. Quisque vitae dui feugiat, finibus leo eu, congue augue. Sed pharetra, tellus ut dapibus varius, metus nisl volutpat ligula, et fringilla lectus sem a lorem.
 
 ---
 
-- **The Global African/Caribbean Literary Landscape**. 
+- **The Global African/Caribbean Literary Landscape**.\\
 Carole Boyce Davies, Cornell University; V. Emma Kioko, Cornell University
-- **The Library of Glissant Studies**.  
+- **The Library of Glissant Studies**.\\
 Jeanne Jégousso, Louisiana State University; Emily O’Dell, Louisiana State University
-- **A Glimpse of Delis Negrón Contributions Through his Digital Archive**. 
+- **A Glimpse of Delis Negrón Contributions Through his Digital Archive**.\\
 Sylvia Fernández, University of Houston
 - Moderator: Gary Wilder, CUNY Graduate Center
 
