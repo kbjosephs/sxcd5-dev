@@ -15,8 +15,6 @@ Nicole N. Aljoe, Elizabeth Maddock Dillon, Sarah Payne, Alanna Prince (Northeast
 
 ---
 
-- **Digital Decolonization: Exhibit Building in the Classroom – The Early Caribbean Digital Archive**\
-Nicole N. Aljoe, Elizabeth Maddock Dillon, Sarah Payne, Alanna Prince (Northeastern University)
 
 This hands-on workshop will begin with a brief introduction to the Early Caribbean Digital Archive (ECDA)—an open-access, free, interactive scholarly database of pre-twentieth century Caribbean novels, travel narratives, maps, and images housed at Northeastern University in Boston, Massachusetts that aims to use digital remediation to decolonize the archive: ecda.northeastern.edu.  This workshop will focus on how to use the ECDA in the classroom to build student-designed exhibits made up of archival texts, images, and scholarly criticism on topics related to early Caribbean culture, decolonizing structures of knowledge, and the historical roots of emancipatory thought in the Caribbean.
  
