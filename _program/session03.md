@@ -9,7 +9,7 @@ slot: "1:45-3PM"
 
 ---
 
-- **“‘Jane Irie’ Is Her Avatar”: Uploading Brontë and Rhys in the Digital Age of Jamaica**.\
+- **‘Jane Irie’ Is Her Avatar”: Uploading Brontë and Rhys in the Digital Age of Jamaica**.\
 Isis Semaj-Hall (University of the West Indies, Mona) 
 - **Engaging the Digital in the Classroom: Beta Tests, Trial Runs and Guinea Pigs**.\
 Robin Brooks (University of Pittsburgh)
