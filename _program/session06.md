@@ -11,7 +11,6 @@ slot: "9:30-10:30AM"
 ---
 
 - **Haitian Intellectual History in the Age of Digital Preservation**\
-Carole Boyce Davies, Cornell University; V. Emma Kioko, Cornell University
 Chelsea Stieber (Catholic University), Watson Denis (Société Haïtienne d’Histoire, de Géographie et de Géologie), Marlene L. Daut (University of Virginia)
 Moderator: Laurent Dubois (Duke University)
 
