@@ -9,11 +9,11 @@ slot: "1:45-3PM"
 
 ---
 
-- **“‘Jane Irie’ Is Her Avatar”: Uploading Brontë and Rhys in the Digital Age of Jamaica**.\\
+- **“‘Jane Irie’ Is Her Avatar”: Uploading Brontë and Rhys in the Digital Age of Jamaica**.
 Isis Semaj-Hall (University of the West Indies, Mona) 
-- **Engaging the Digital in the Classroom: Beta Tests, Trial Runs and Guinea Pigs**.\\
+- **Engaging the Digital in the Classroom: Beta Tests, Trial Runs and Guinea Pigs**.
 Robin Brooks (University of Pittsburgh)
-- **Caribbean Poverty/Education**.\\
+- **Caribbean Poverty/Education**.
 Benjamin Branch (University of West Indies, Mona), Ms. Jamillah Scott-Branch (North Carolina Central University)
 - Moderator: Tzarina T. Prater (Bentley University)
 
