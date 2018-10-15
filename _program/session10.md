@@ -17,7 +17,7 @@ Elizabeth Losh (College of William & Mary)
 Amanda Zilla (University of the West Indies, St. Augustine) 
 - **Is the Digital in Digital Black Atlantic the Digital in Digital Humanities?**\
 Roopika Risam (Salem State University)
-- Moderator: Kaiama L. Glover, Barnard College, Columbia University
+- Moderator: Kaiama L. Glover (Barnard College, Columbia University)
 
 ---
 
