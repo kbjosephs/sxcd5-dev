@@ -1,34 +1,19 @@
 ---
 layout: page
-title: "Intellectual Histories, Archival Engagements"
+title: "ROUNDTABLE"
 session: 1
-day: Thursday
-slot: "9:30AM-10:45AM"
+day: Friday
+slot: "9:30-10:30AM"
 ---
 
 
-Hello. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt leo vitae neque posuere, quis volutpat sapien maximus. Proin et dapibus metus. Aliquam faucibus purus vel ex molestie mollis. Quisque vitae dui feugiat, finibus leo eu, congue augue. Sed pharetra, tellus ut dapibus varius, metus nisl volutpat ligula, et fringilla lectus sem a lorem.
 
 ---
 
-- **The Global African/Caribbean Literary Landscape**.\\
-Carole Boyce Davies, Cornell University; V. Emma Kioko, Cornell University
-- **The Library of Glissant Studies**.\\
-Jeanne Jégousso, Louisiana State University; Emily O’Dell, Louisiana State University
-- **A Glimpse of Delis Negrón Contributions Through his Digital Archive**.\\
-Sylvia Fernández, University of Houston
-- Moderator: Gary Wilder, CUNY Graduate Center
+- **Haitian Intellectual History in the Age of Digital Preservation**\
+Chelsea Stieber (Catholic University), Watson Denis (Société Haïtienne d’Histoire, de Géographie et de Géologie), Marlene L. Daut (University of Virginia)
+Moderator: Laurent Dubois (Duke University)
 
 ---
 
-**Carole Boyce Davies** is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt leo vitae neque posuere, quis volutpat sapien maximus. Proin et dapibus metus. Aliquam faucibus purus vel ex molestie mollis. Quisque vitae dui feugiat, finibus leo eu, congue augue. Sed pharetra, tellus ut dapibus varius, metus nisl volutpat ligula, et fringilla lectus sem a lorem. Duis condimentum ipsum in dui facilisis, eget auctor lacus commodo. Vivamus quam felis, pretium vel nunc quis, gravida commodo velit. Nam ut tellus magna. Aenean augue ex, eleifend sit amet malesuada non, lobortis ut lorem.
-
-**V. Emma Kioko** is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt leo vitae neque posuere, quis volutpat sapien maximus. Proin et dapibus metus. Aliquam faucibus purus vel ex molestie mollis. Quisque vitae dui feugiat, finibus leo eu, congue augue. Sed pharetra, tellus ut dapibus varius, metus nisl volutpat ligula, et fringilla lectus sem a lorem. Duis condimentum ipsum in dui facilisis, eget auctor lacus commodo. Vivamus quam felis, pretium vel nunc quis, gravida commodo velit. Nam ut tellus magna. Aenean augue ex, eleifend sit amet malesuada non, lobortis ut lorem.
-
-**Jeanne Jégousso** is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt leo vitae neque posuere, quis volutpat sapien maximus. Proin et dapibus metus. Aliquam faucibus purus vel ex molestie mollis. Quisque vitae dui feugiat, finibus leo eu, congue augue. Sed pharetra, tellus ut dapibus varius, metus nisl volutpat ligula, et fringilla lectus sem a lorem. Duis condimentum ipsum in dui facilisis, eget auctor lacus commodo. Vivamus quam felis, pretium vel nunc quis, gravida commodo velit. Nam ut tellus magna. Aenean augue ex, eleifend sit amet malesuada non, lobortis ut lorem.
-
-**Emily O’Dell** is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt leo vitae neque posuere, quis volutpat sapien maximus. Proin et dapibus metus. Aliquam faucibus purus vel ex molestie mollis. Quisque vitae dui feugiat, finibus leo eu, congue augue. Sed pharetra, tellus ut dapibus varius, metus nisl volutpat ligula, et fringilla lectus sem a lorem. Duis condimentum ipsum in dui facilisis, eget auctor lacus commodo. Vivamus quam felis, pretium vel nunc quis, gravida commodo velit. Nam ut tellus magna. Aenean augue ex, eleifend sit amet malesuada non, lobortis ut lorem.
-
-**Sylvia Fernández** is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt leo vitae neque posuere, quis volutpat sapien maximus. Proin et dapibus metus. Aliquam faucibus purus vel ex molestie mollis. Quisque vitae dui feugiat, finibus leo eu, congue augue. Sed pharetra, tellus ut dapibus varius, metus nisl volutpat ligula, et fringilla lectus sem a lorem. Duis condimentum ipsum in dui facilisis, eget auctor lacus commodo. Vivamus quam felis, pretium vel nunc quis, gravida commodo velit. Nam ut tellus magna. Aenean augue ex, eleifend sit amet malesuada non, lobortis ut lorem.
-
-**Gary Wilder** is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt leo vitae neque posuere, quis volutpat sapien maximus. Proin et dapibus metus. Aliquam faucibus purus vel ex molestie mollis. Quisque vitae dui feugiat, finibus leo eu, congue augue. Sed pharetra, tellus ut dapibus varius, metus nisl volutpat ligula, et fringilla lectus sem a lorem. Duis condimentum ipsum in dui facilisis, eget auctor lacus commodo. Vivamus quam felis, pretium vel nunc quis, gravida commodo velit. Nam ut tellus magna. Aenean augue ex, eleifend sit amet malesuada non, lobortis ut lorem.
+The Revue de la société haïtienne d’histoire, de géographie et de géologie (1925–present) is the greatest repository of historical research produced on Haiti, from Haiti, and yet its contents are rarely used by scholars outside of the country. If researchers in the North Atlantic (US, Canada, and Europe) now recognize the centrality of the Haitian Revolution to the study of the Atlantic world, why have they yet to accord the same attention to Haitian historians? This is the problematic reality that Chelsea Stieber’s project entitled the RSHHGG Lab (http://rshhgglab.com/search/) seeks to address and rectify, in partnership with the Société Haïtienne d’Histoire, de Géographie et de Géologie (SHHGG) and the US Library of Congress. The project is designed as a laboratory because it allows users to search the contents of over 1300 articles and help to index them. The Gazette Royale project (http://lagazetteroyale.com), launched by Marlene Daut in April 2018, addresses the problem of differently isolated Haitian historical documents. Of the 83 issues and 6 almanacs now freely available in both pdf and full text on the Gazette website, only one original can be found in Haiti today.  Because these newspapers and other materials are located primarily in archives and libraries across the United States and western Europe, these precious relics of early Haitian statehood have until recently been mostly inaccessible to the Haitian people themselves. While the RSHHGG Lab is a crucial step in ensuring that Haitian scholars are not silenced in this moment of resurgent interest in Haitian history by helping Haitian scholarship to digitally travel, so to speak, the Gazette project involves what Radio Haiti archivist Laura Wagner has referred to as “repatriation” of Haitian archival documents. Ultimately, both projects show that the annals of Haiti’s history do not contain empty pages waiting to be filled by scholars from abroad. As both projects illustrate, Haitians have been making and writing their own history—intellectual, literary, political, and otherwise—from the inception of the country until now, and this roundtable proposes to bring together key project managers, collaborators, and historians to discuss the possibilities and perils of using the web to combat the “silencing” of the Haitian past.
