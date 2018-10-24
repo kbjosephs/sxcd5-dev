@@ -10,7 +10,7 @@ slot: "4:45-6:30PM"
 
 ---
 
-- **Digital Decolonization: Exhibit Building in the Classroom – The Early Caribbean Digital Archive**\
+- **Digital Decolonization: Exhibit Building in the Classroom – The Early Caribbean Digital Archive**\\
 Nicole N. Aljoe, Elizabeth Maddock Dillon, Sarah Payne, Alanna Prince (Northeastern University)
 
 ---
