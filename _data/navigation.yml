@@ -1,11 +1,13 @@
 - title: Home
   url: /2018/
 - title: Team
-  url: /2018/team.html
+  url: /2018/team/
+- title: Program
+  url: /2018/program/
 - title: Register
   url: https://www.eventbrite.com/e/caribbean-digital-v-tickets-50043786312
 - title: Travel
-  url: /2018/travel.html
+  url: /2018/travel/
 - title: Archive
   url: /#
   sublinks:

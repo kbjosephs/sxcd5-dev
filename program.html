@@ -1,0 +1,41 @@
+---
+layout: default
+title: Program
+---
+
+<h1>The Program</h1>
+
+<h2>Thursday, December 6</h2>
+
+  <ul class="slots">
+  {% for item in site.program %}
+  	{% if item.day == "Thursday" %}
+  
+    <li class="slot-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a><br>
+      <p>{{ item.slot }}</p>
+    </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+
+<h2>Friday, December 7</h2>
+
+  <ul class="slots">
+  {% for item in site.program %}
+  	{% if item.day == "Friday" %}
+  
+    <li class="slot-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a><br>
+      <p>{{ item.slot }}</p>
+    </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+
+
+

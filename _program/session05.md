@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "WORKSHOP"
+title: "Workshop on Digital Decolonization"
 session: 5
 day: Thursday
 slot: "4:45-6:30PM"
