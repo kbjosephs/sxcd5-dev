@@ -355,8 +355,8 @@ populations. Her latest publication, titled, “Siri’s Imperialist Reign”
 is part of an edited collection, *Your Computer is on Fire*, due out in
 early 2019 and published by MIT Press.
 
-&#x2666;\
-\
+&#x2666;
+
 ## Amalia Levi
 
 ...is an archivist and cultural heritage professional
