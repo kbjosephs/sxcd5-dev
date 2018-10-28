@@ -10,11 +10,11 @@ slot: "10:45-12:00PM"
 ---
 
 - **New World History Now: From a Painful Notion of Time to a Prophetic Vision of the Past**\\
-Gary Wilder (CUNY Graduate Center)
+[Gary Wilder]({{site.baseurl}}/bios/index.html#gary-wilder) (CUNY Graduate Center)
 - **Digital Affect and the Remediated Caribbean Literary Aesthetic: A Study of Kamau Brathwaite’s Strange Fruit and Robert Antoni’s As Flies to Whatless Boys**\\
-Jarrel De Matas (University of the West Indies, St Augustine)
+[Jarrel De Matas]({{site.baseurl}}/bios/index.html#jarrel-de-matas) (University of the West Indies, St Augustine)
 - **Digital Double: Alternative Media and Counter-Narratives in the work of Warren Le Platte**\\
-Jonathan Felix (Independent Scholar)
+[Jonathan Felix]({{site.baseurl}}/bios/index.html#jonathan-felix) (Independent Scholar)
 - Moderator: Bryan Wagner (University of California, Berkeley)
 
 ---

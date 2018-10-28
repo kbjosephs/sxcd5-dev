@@ -10,14 +10,14 @@ slot: "4:30-6:00PM"
 ---
 
 - **Siri mek mi speak like ah freshwater Yankee**\
-Halcyon M. Lawrence (Towson University)
+[Halcyon M. Lawrence]({{site.baseurl}}/bios/index.html#halcyon-m-lawrence) (Towson University)
 - **Resisting Recolonization: Big Data, Vast Early America, and Black Digital Humanities**\
-Elizabeth Losh (College of William & Mary)
+[Elizabeth Losh]({{site.baseurl}}/bios/index.html#elizabeth-losh) (College of William & Mary)
 - **Virtual Reality as Narrative Medium: Potentialities and Problems for Caribbean Implementation**\
-Amanda Zilla (University of the West Indies, St. Augustine) 
+[Amanda Zilla]({{site.baseurl}}/bios/index.html#amanda-zilla) (University of the West Indies, St. Augustine) 
 - **Is the Digital in Digital Black Atlantic the Digital in Digital Humanities?**\
-Roopika Risam (Salem State University)
-- Moderator: Kaiama L. Glover (Barnard College, Columbia University)
+[Roopika Risam]({{site.baseurl}}/bios/index.html#roopika-risam) (Salem State University)
+- Moderator: [Kaiama L. Glover]({{site.baseurl}}/bios/index.html#kaiama-l-glover) (Barnard College, Columbia University)
 
 ---
 

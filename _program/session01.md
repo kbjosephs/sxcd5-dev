@@ -11,12 +11,12 @@ slot: "9:30AM-10:45AM"
 ---
 
 - **The Global African/Caribbean Literary Landscape**\\
-Carole Boyce Davies (Cornell University), V. Emma Kioko (Cornell University)
+[Carole Boyce Davies]({{site.baseurl}}/bios/index.html#carole-boyce-davies) (Cornell University), [V. Emma Kioko]({{site.baseurl}}/bios/index.html#v-emma-kioko) (Cornell University)
 - **The Library of Glissant Studies**\\
-Jeanne Jégousso (Louisiana State University), Emily O’Dell (Louisiana State University)
+[Jeanne Jégousso]({{site.baseurl}}/bios/index.html#jeanne-jegousso) (Louisiana State University), [Emily O’Dell]({{site.baseurl}}/bios/index.html#emily-odell) (Louisiana State University)
 - **A Glimpse of Delis Negrón Contributions Through his Digital Archive**\\
-Sylvia Fernández (University of Houston)
-- Moderator: Gary Wilder, CUNY Graduate Center
+[Sylvia Fernández]({{site.baseurl}}/bios/index.html#sylvia-fernández) (University of Houston)
+- Moderator: [Gary Wilder]({{site.baseurl}}/bios/index.html#gary-wilder), CUNY Graduate Center
 
 ---
 

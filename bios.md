@@ -8,8 +8,8 @@ title: Participants
 ## Agyei Archer
 
 ...is a type and graphic designer from Trinidad, with 11
-years of experience across vari- ous communication design disciplines,
-including art direction, advertisement, experience design, web- site
+years of experience across various communication design disciplines,
+including art direction, advertisement, experience design, website
 design and development, branding, and motion design. He is also a
 founding member and active member of the board of directors of Design
 Objective, Trinidad and Tobago’s professional graphic design
@@ -116,6 +116,7 @@ her on Twitter @fictionsofHaiti.
 
 &#x2666;
 
+
 ## Carole Boyce Davies
 
 ...is Professor of Africana Studies and English at
@@ -199,7 +200,7 @@ Los Angeles Times*, and *Slate*. He tweets @Soccerpolitics.
 
 &#x2666;
 
-## Schuyler Espirit
+## Schuyler Esprit
 
 ...is a writer and editor, research consultant, and
 youth advocate. She is the Director of Create Caribbean Research

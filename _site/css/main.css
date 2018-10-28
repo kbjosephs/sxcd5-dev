@@ -151,6 +151,14 @@ nav ul {
       clear: both;
       width: 100%; } }
 
+h2::before {
+  display: block;
+  content: " ";
+  margin-top: -120px;
+  height: 120px;
+  visibility: hidden;
+  pointer-events: none; }
+
 /**
  * Site footer
  */

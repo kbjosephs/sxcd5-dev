@@ -10,12 +10,12 @@ slot: "12:15-1:30PM"
 ---
 
 - **The Machel Montano digital newspaper archive 1983-2018**\\
-Kwynn Johnson (The University of the West Indies, St. Augustine)
+[Kwynn Johnson]({{site.baseurl}}/bios/index.html#kwynn-johnson) (The University of the West Indies, St. Augustine)
 - **Countering Plantation Memories: A Digital Edition of James Grainger’s The Sugar-Cane**\\
-Julie Chun Kim (Fordham University), Kimberly Takahata (Columbia University)
+[Julie Chun Kim]({{site.baseurl}}/bios/index.html#julie-chun-kim) (Fordham University), [Kimberly Takahata]({{site.baseurl}}/bios/index.html#kimberly-takahata) (Columbia University)
 - **Caribbean Literary Magazines: From Print to Digital Forms**\\
-Lizabel Mónica (Princeton University), Katerina Gonzalez Seligmann (Emerson College)
-- Moderator: Tao Leigh Goffe (New York University)
+[Lizabel Mónica]({{site.baseurl}}/bios/index.html#lizabel-monica) (Princeton University), [Katerina Gonzalez Seligmann]({{site.baseurl}}/bios/index.html#katerina-gonzalez-seligmann) (Emerson College)
+- Moderator: [Tao Leigh Goffe]({{site.baseurl}}/bios/index.html#tao-leigh-goffe) (New York University)
 
 ---
 

@@ -11,12 +11,12 @@ slot: "3-4:15PM"
 ---
 
 - **Beauty: Is in the Eye of the Phone Holder**\\
-Miari Taina Stephens (Harvard University)
+[Miari Taina Stephens]({{site.baseurl}}/bios/index.html#miari-taina-stephens) (Harvard University)
 - **AfroCaribbean Silence Breakers in the Digital Public Sphere**\\
-Leslie Kay Jones (Andrea Mitchell Center for the Study of Democracy)
+[Leslie Kay Jones]({{site.baseurl}}/bios/index.html#leslie-kay-jones) (Andrea Mitchell Center for the Study of Democracy)
 - **“Always Together”: A Digital Diasporic Elegy**\\
- Tzarina T. Prater (Bentley University)
-- Moderator: Isis Semaj-Hall (University of the West Indies, Mona)
+ [Tzarina T. Prater]({{site.baseurl}}/bios/index.html#tzarina-t-prater) (Bentley University)
+- Moderator: [Isis Semaj-Hall]({{site.baseurl}}/bios/index.html#isis-semaj-hall) (University of the West Indies, Mona)
 
 ---
 
