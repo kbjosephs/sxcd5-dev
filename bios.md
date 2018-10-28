@@ -317,8 +317,8 @@ Mini-Conference at the Eastern Sociological Society annual meeting,
 which aims to foster a community of sociologists invested in critical
 digital studies work.
 
-&#x2666;\
-\
+&#x2666;
+
 ## Julie Chun Kim
 
 ...is Associate Professor of English at Fordham

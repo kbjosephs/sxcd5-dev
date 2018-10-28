@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>#sxcd2018</title>
-    <description>@elotroalex reads &quot;the other Alex&quot; in Spanish. Although the handler carries hints of Borges, Marti and the big Other, I get it mostly from my grandmother Flor. Every time I misbehaved she used to say: &quot;Yo se que no fuiste tu, mijo. Fue el otro Alex.&quot; Let's say I keep it as a reminder of the playful mischief of grace.
+    <description>An annual conference dedicated to Caribbean digital studies.
 </description>
     <link>/2018/</link>
     <atom:link href="/2018/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Oct 2018 20:16:32 -0400</pubDate>
-    <lastBuildDate>Sat, 27 Oct 2018 20:16:32 -0400</lastBuildDate>
+    <pubDate>Sat, 27 Oct 2018 20:19:40 -0400</pubDate>
+    <lastBuildDate>Sat, 27 Oct 2018 20:19:40 -0400</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
   </channel>
