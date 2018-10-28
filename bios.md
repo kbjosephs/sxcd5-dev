@@ -466,8 +466,7 @@ and meta-archival discourses.
 ...is Assistant Professor of English and Faculty Fellow
 for Digital Library Initiatives at Salem State University. Her book *New
 Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and
-Pedagogy* will be published by Northwestern University Press in November
-2018. Risam’s digital humanities projects include *The Harlem Shadows
+Pedagogy* will be published by Northwestern University Press in November 2018. Risam’s digital humanities projects include *The Harlem Shadows
 Project*, *Social Justice and Digital Humanities*, and *Visualizing the
 Global Du Bois*. Her work has appeared in *Digital Humanities
 Quarterly*, *Digital Scholarship in the Humanities*, *Left History,* and
